@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+efficientnet-pytorch
+ultralytics
+opencv-python
+numpy
+kagglehub
+pydantic
+psycopg2-binary
+redis
+google-generativeai

@@ -1,0 +1,10 @@
+path: ./training/data/yolo
+train: images/train
+val: images/val
+
+# Classes (Example for disease detection)
+names:
+  0: Leaf_Spot
+  1: Rust
+  2: Blight
+  3: Healthy

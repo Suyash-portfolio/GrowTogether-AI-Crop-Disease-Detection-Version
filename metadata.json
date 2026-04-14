@@ -1,0 +1,12 @@
+{
+  "name": "GrowTogether-AI",
+  "description": "Production-level crop disease detection using a cascaded CNN + YOLOv8 + EfficientNet-B4 pipeline with GIS integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Multi-stage AI Pipeline",
+    "Geo-spatial Heatmaps",
+    "Edge AI Optimization"
+  ]
+}
